@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(118, 189, 179);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.black-border{
+    border: 5px solid black;
+}
+
+#abc{
+    background-color: rgb(101, 76, 216);
+}
+
+.abd{
+    color: rgb(231, 216, 8);
+    font-family: 'Zen Tokyo Zoo', cursive;;
+}
+
